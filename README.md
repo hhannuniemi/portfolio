@@ -1,3 +1,3 @@
 # Portfolio web page
 
-Using html template to build a portfolio website.
+Building a web server using Flask and html template to build a portfolio website.
